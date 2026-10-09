@@ -149,11 +149,13 @@ Contributions are welcome! Follow these steps to add new AI search platforms or 
 
 ## 🤝 Support & Sponsorship
 
-If you find this AI Search & Insight Engine resource helpful, please consider supporting the project:
+Thank you so much for exploring and utilizing the **Awesome AI Search Insight Engine** directory! Your support helps keep this curated directory continuously updated with category leaders, emerging RAG architectures, and open-source retrieval benchmarks.
 
-- ⭐ **Star** this repository to boost its visibility!
-- 🔀 **Fork** and share with search engineers, data architects, and AI developers.
-- ☕ **Sponsor & Support**: Support open-source curation via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+If you find this repository helpful, please consider supporting its ongoing curation and maintenance:
+
+- ⭐ **Star** this repository on GitHub to boost its visibility!
+- 🔀 **Fork & Share** with fellow search engineers, knowledge architects, and AI researchers.
+- ☕ **Buy Me a Coffee / Sponsor**: Support open-source maintenance and project research via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
 
 ---
 

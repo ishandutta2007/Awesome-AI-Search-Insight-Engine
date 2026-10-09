@@ -72,7 +72,7 @@ The global AI Enterprise Search & Insight Engine market size is estimated at **$
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub Stars Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[Open WebUI](https://github.com/open-webui/open-webui)** [![Stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social&color=white)](https://github.com/open-webui/open-webui/stargazers) 🔒  
   **Extensible, self-hosted AI & RAG web interface**, MIT licensed. Features document RAG, web RAG, persistent chat histories, prompt management, custom tooling/filters, and support for Ollama, vLLM, and OpenAI APIs.
@@ -136,7 +136,7 @@ Contributions are welcome! Follow these steps to add new AI search platforms or 
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/edit** entries in `README.md` while maintaining table structures and precise pricing/star details.
-3. 🔗 Include official links, exact starting prices, free tier limits, valuations, and GitHub star badges.
+3. 🔗 Include official links, exact starting prices, free tier limits, valuations, and GitHub Stars_Badges.
 4. 🚀 Submit a **Pull Request** detailing your additions.
 
 ---
